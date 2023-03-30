@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "76074373768",
+    "project_id": "photoapp-85f69",
+    "storage_bucket": "photoapp-85f69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76074373768:android:151220561d9164d746453d",
+        "android_client_info": {
+          "package_name": "com.example.photo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76074373768-josbmf9dm3au2g32cr7lrhqrc3q5dq2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByNTVHdY9NMCPu68k2r78D8EA33u03gQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76074373768-josbmf9dm3au2g32cr7lrhqrc3q5dq2d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "76074373768-unrhaf5gul1faa03f7lmqi9n76mnffga.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.photoApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76074373768:android:6131863fa761db7d46453d",
+        "android_client_info": {
+          "package_name": "com.example.uber_userside_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76074373768-josbmf9dm3au2g32cr7lrhqrc3q5dq2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByNTVHdY9NMCPu68k2r78D8EA33u03gQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76074373768-josbmf9dm3au2g32cr7lrhqrc3q5dq2d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "76074373768-unrhaf5gul1faa03f7lmqi9n76mnffga.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.photoApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
